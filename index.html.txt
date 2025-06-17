@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name – iOS Developer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>iOS Developer | Swift | SwiftUI | Firebase</p>
+  </header>
+
+  <section>
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>ChatMate</h3>
+      <p>Real-time chat app using SwiftUI + WebSocket</p>
+      <a href="https://apps.apple.com/app/id123456789" target="_blank">App Store</a>
+      <a href="https://github.com/yourusername/chatmate">GitHub</a>
+    </div>
+    <!-- Add more projects here -->
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+    <p>GitHub: github.com/yourusername</p>
+  </section>
+</body>
+</html>
+
